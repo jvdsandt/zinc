@@ -479,7 +479,7 @@ Now add your SmalltalkHub repository to the ConfigurationOfMyFirstWebApp Montice
 
 So we created our first web app and tested it locally. We stored our source code in the SmalltalkHub repository and created a Metacello configuration for it. Now we need a real cloud server to run our web app.
 
-It used to be hard and expensive to get access to a real server permanently connected to the internet. Not any more: prices have comes down and operating cloud servers has become a much easier to use service.
+It used to be hard and expensive to get access to a real server permanently connected to the internet. Not any more: prices have come down and operating cloud servers has become a much easier to use service.
 
 For this guide, we will be using [Digital Ocean](http://www.digitalocean.com). The entry level server there, which is more than powerful enough for our experiment, costs just $5 a month. If you stop and remove the server after a couple of days, you will only pay cents. Go ahead and make yourself an account and register a credit card.
 
